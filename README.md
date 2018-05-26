@@ -1,8 +1,3 @@
-# Introduction to Deep Learning course resources
-https://www.coursera.org/learn/intro-to-deep-learning
-
-## Offline instructions
-Coursera Jupyter Environment can be slow if many learners use it heavily. 
 ## Higher School of Economics - Advanced Machine Learning Specialization
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
