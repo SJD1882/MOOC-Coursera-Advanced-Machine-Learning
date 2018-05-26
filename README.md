@@ -1,3 +1,8 @@
+# Introduction to Deep Learning course resources
+https://www.coursera.org/learn/intro-to-deep-learning
+
+## Offline instructions
+Coursera Jupyter Environment can be slow if many learners use it heavily. 
 ## Higher School of Economics - Advanced Machine Learning Specialization
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
@@ -7,13 +12,10 @@ This specialization gives an introduction to deep learning, reinforcement learni
 You will master your skills by solving a wide variety of real-world problems like image captioning and automatic game playing throughout the course projects. You will gain the hands-on experience of applying advanced machine learning techniques that provide the foundation to the current state-of-the art in AI.
 
 ### Table of Contents
-1. Introduction to Deep Learning
-2. How to Win a Data Science Competition: Learn from Top Kagglers
-3. Bayesian Methods for Machine Learning
-4. Introduction to Reinforcement Learning  (*December 2017*)
-5. Deep Learning in Computer Vision  (*January 2018*)
-6. Natural Language Processing  (*February 2018*)
-7. Addressing Large Hadron Collider Challenges by Machine Learning  (*March 2018*)
-
-### Prerequisites
-As prerequisites we assume calculus and linear algebra (especially derivatives, matrices and operations with them), probability theory (random variables, distributions, moments), basic programming in python (functions, loops, numpy), basic machine learning (linear models, decision trees, boosting and random forests). Our intended audience are all people who are already familiar with basic machine learning and want to get a hand-on experience of research and development in the field of modern machine learning.
+1. Introduction to Deep Learning (*ongoing*)
+2. Bayesian Methods for Machine Learning (*ongoing*)
+3. Natural Language Processing (*ongoing*)
+4. Practical Reinforcement Learning (*July 2018*)
+5. How to Win a Data Science Competition: Learn from Top Kagglers (*July 2018*)
+6. Deep Learning in Computer Vision (*August 2018*)
+7. Addressing Large Hadron Collider Challenges by Machine Learning (*September 2018*)
