@@ -1,4 +1,4 @@
-## Higher School of Economics - Advanced Machine Learning Specialization
+## NRU Higher School of Economics / Yandex MOOC - Advanced Machine Learning Specialization
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
 ### Syllabus
@@ -7,10 +7,24 @@ This specialization gives an introduction to deep learning, reinforcement learni
 You will master your skills by solving a wide variety of real-world problems like image captioning and automatic game playing throughout the course projects. You will gain the hands-on experience of applying advanced machine learning techniques that provide the foundation to the current state-of-the art in AI.
 
 ### Table of Contents
-1. Introduction to Deep Learning (*ongoing*)
-2. Bayesian Methods for Machine Learning (*ongoing*)
-3. Natural Language Processing (*ongoing*)
-4. Practical Reinforcement Learning (*July 2018*)
-5. How to Win a Data Science Competition: Learn from Top Kagglers (*July 2018*)
-6. Deep Learning in Computer Vision (*August 2018*)
-7. Addressing Large Hadron Collider Challenges by Machine Learning (*September 2018*)
+
+**Introduction to Deep Learning**  (June 2018)
+-   Gradient descent optimization (*week 1*)
+-   Multilayer Perceptron and introduction to Tensorflow/Keras (*week 2*)
+-   Convolutional Neural Networks (*week 3*)
+-   Autoencoders and Generative Adversarial Networks (*week 4*)
+-   Recurrent Neural Networks (*week 5*)
+
+**Bayesian Methods for Machine Learning**  (July 2018)
+-   Refresher on Bayesian probability theory (*week 1*)
+-   Expectation-Maximization algorithm and Gaussian Mixture Models (*week 2*)
+
+**Natural Language Processing**  (July 2018)
+
+**How to Win a Data Science Competition: Learn from Top Kagglers** (July 2018)
+
+**Practical Reinforcement Learning**  (August 2018)
+
+**Deep Learning in Computer Vision**  (September 2018)
+
+**Addressing Large Hadron Collider Challenges by Machine Learning**  (October 2018)
