@@ -1,6 +1,6 @@
 ## National Research University Higher School of Economics / Yandex MOOC - *Advanced Machine Learning* Specialization
 
-<img src="logo.png" width="1000" height="1000" />
+<img src="logo.png" width="400" height="200" />
 
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
