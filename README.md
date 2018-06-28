@@ -24,11 +24,11 @@ You will master your skills by solving a wide variety of real-world problems lik
 -   Variational Inference and Latent Dirichlet Allocation (*week 3*)
 
 **Natural Language Processing**  (July 2018)
--   Text classification with linear NLP models (*week 1*)
--   AAA (*week 2*)
+-   Sentiment analysis with linear models (*week 1*)
+-   Language modelling with Markovian Models and Neural Networks (*week 2*)
 
 **How to Win a Data Science Competition: Learn from Top Kagglers** (July 2018)
--   Feature proprocessing and engineering (*week 1*)
+-   Feature proprocessing and generation (*week 1*)
 
 **Practical Reinforcement Learning**  (August 2018)
 
