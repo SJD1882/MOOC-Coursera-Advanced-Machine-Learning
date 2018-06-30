@@ -1,6 +1,6 @@
 ## National Research University Higher School of Economics / Yandex MOOC - *Advanced Machine Learning* Specialization
 
-<img src="logo.png" width="650" height="400" />
+<img src="logo.png" width="800" height="300" />
 
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
@@ -26,9 +26,9 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 **Natural Language Processing**  (July 2018)
 -   Sentiment classification with linear models (*week 1*)
--   Language modelling with Markovian Models and Neural Networks (*week 2*)
+-   Language modelling with Markovian models and neural networks (*week 2*)
 
-**How to Win a Data Science Competition: Learn from Top Kagglers** (July 2018)
+**How to Win a Data Science Competition** (July 2018)
 -   Feature proprocessing and generation (*week 1*)
 
 **Practical Reinforcement Learning**  (August 2018)
