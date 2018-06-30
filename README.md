@@ -1,6 +1,6 @@
 ## National Research University Higher School of Economics / Yandex MOOC - *Advanced Machine Learning* Specialization
 
-<img src="logo.png" width="400" height="200" />
+<img src="logo.png" width="650" height="400" />
 
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
@@ -17,6 +17,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 -   Convolutional Neural Networks (*week 3*)
 -   Autoencoders and Generative Adversarial Networks (*week 4*)
 -   Recurrent Neural Networks (*week 5*)
+-	Final Project: Image Captioning (*week 6*)
 
 **Bayesian Methods for Machine Learning**  (June 2018)
 -   Refresher on Bayesian probability theory (*week 1*)
@@ -24,7 +25,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 -   Variational Inference and Latent Dirichlet Allocation (*week 3*)
 
 **Natural Language Processing**  (July 2018)
--   Sentiment analysis with linear models (*week 1*)
+-   Sentiment classification with linear models (*week 1*)
 -   Language modelling with Markovian Models and Neural Networks (*week 2*)
 
 **How to Win a Data Science Competition: Learn from Top Kagglers** (July 2018)
