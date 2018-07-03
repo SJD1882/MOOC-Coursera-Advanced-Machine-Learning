@@ -1,4 +1,6 @@
-## National Research University Higher School of Economics / Yandex MOOC - *Advanced Machine Learning* Specialization
+## *Advanced Machine Learning* MOOC Specialization
+
+## National Research University Higher School of Economics and Yandex
 
 <img src="logo.png" width="800" height="300" />
 
@@ -12,7 +14,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 ### Table of Contents
 
 **Introduction to Deep Learning**  (May 2018)
--   Gradient descent optimization (*week 1*)
+-   Optimization (*week 1*)
 -   Multilayer Perceptron and introduction to Tensorflow/Keras (*week 2*)
 -   Convolutional Neural Networks (*week 3*)
 -   Autoencoders and Generative Adversarial Networks (*week 4*)
@@ -29,7 +31,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 -   Language modelling with Markovian models and neural networks (*week 2*)
 
 **How to Win a Data Science Competition** (July 2018)
--   Feature proprocessing and generation (*week 1*)
+-   Feature Preprocessing and Generation (*week 1*)
 
 **Practical Reinforcement Learning**  (August 2018)
 
