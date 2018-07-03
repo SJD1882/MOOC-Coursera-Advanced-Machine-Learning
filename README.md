@@ -1,6 +1,6 @@
-## *Advanced Machine Learning* MOOC Specialization
+## *Advanced Machine Learning* Coursera MOOC Specialization
 
-## National Research University Higher School of Economics and Yandex
+### National Research University Higher School of Economics / Yandex
 
 <img src="logo.png" width="800" height="300" />
 
@@ -25,6 +25,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 -   Refresher on Bayesian probability theory (*week 1*)
 -   Expectation-Maximization algorithm and Gaussian Mixture Models (*week 2*)
 -   Variational Inference and Latent Dirichlet Allocation (*week 3*)
+-	Markov Chain Monte Carlo (*week 4*)
 
 **Natural Language Processing**  (July 2018)
 -   Sentiment classification with linear models (*week 1*)
