@@ -13,6 +13,8 @@ This specialization gives an introduction to deep learning, reinforcement learni
 
 You will master your skills by solving a wide variety of real-world problems like image captioning and automatic game playing throughout the course projects. You will gain the hands-on experience of applying advanced machine learning techniques that provide the foundation to the current state-of-the art in AI.
 
+<br>
+
 ### Table of Contents
 
 **1 - Introduction to Deep Learning**  (December 2017 - July 2018)
@@ -35,7 +37,9 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 **4 - How to Win a Data Science Competition: Learn From Top Kagglers** (July 2018)
 -   Feature preprocessing  (*week 1*)
--   Exploratory data analysis and validation strategies (*week 2*)
+-   Exploratory data analysis, validation strategies and data leakage (*week 2*)
+
+<br>
 
 ### To be continued
 
