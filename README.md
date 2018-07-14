@@ -26,6 +26,8 @@ You will master your skills by solving a wide variety of real-world problems lik
 **2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**
 -   *week 1*: Feature Preprocessing and Engineering
 -   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
+-   *week 3*: Metric and Hyperparameter Optimization
+-   *week 4*: Advanced Feature Engineering
 
 **3 - _Bayesian Methods for Machine Learning_**
 -   *week 1*: Refresher on Bayesian probability theory
