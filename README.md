@@ -16,28 +16,34 @@ You will master your skills by solving a wide variety of real-world problems lik
 ### Table of Contents
 
 **1 - _Introduction to Deep Learning_**  (*completed*)
--   *week 1*: Optimization
--   *week 2*: Multilayer Perceptron and introduction to Tensorflow/Keras
--   *week 3*: Convolutional Neural Networks
--   *week 4*: Autoencoders and Generative Adversarial Networks
--   *week 5*: Recurrent Neural Networks
--   *week 6*: Image Captioning Final Project
+- [x]   *week 1*: Optimization
+- [x]   *week 2*: Multilayer Perceptron and introduction to Tensorflow/Keras
+- [x]   *week 3*: Convolutional Neural Networks
+- [x]   *week 4*: Autoencoders and Generative Adversarial Networks
+- [x]   *week 5*: Recurrent Neural Networks
+- [x]   *week 6*: Image Captioning Final Project
 
 **2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**
--   *week 1*: Feature Preprocessing and Engineering
--   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
--   *week 3*: Metric and Hyperparameter Optimization
--   *week 4*: Advanced Feature Engineering
+- [x]   *week 1*: Feature Preprocessing and Engineering
+- [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
+- [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
+- [ ]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
+- [ ]   *week 5*: Kaggle Competition Final Project
 
 **3 - _Bayesian Methods for Machine Learning_**
--   *week 1*: Refresher on Bayesian probability theory
--   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
--   *week 3*: Variational Inference and Latent Dirichlet Allocation
--   *week 4*: Markov Chain Monte Carlo
+- [x]   *week 1*: Refresher on Bayesian probability theory
+- [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
+- [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
+- [ ]   *week 4*: Markov Chain Monte Carlo
+- [ ]   *week 5*: Variational Autoencoders
+- [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
 
 **4 - _Natural Language Processing_**
--   *week 1*: Sentiment classification with linear models
--   *week 2*: Language modelling with Hidden Markov Models and Neural Networks
+- [x]   *week 1*: Text Classification with Linear Models
+- [ ]   *week 2*: Language Modelling with Hidden Markov Models and Neural Networks
+- [ ]   *week 3*: Word Embeddings and Topic Models
+- [ ]   *week 4*: Sequence-to-Sequence Tasks
+- [ ]   *week 5*: StackOverflow Chatbot Final Project
 
 <br>
 
