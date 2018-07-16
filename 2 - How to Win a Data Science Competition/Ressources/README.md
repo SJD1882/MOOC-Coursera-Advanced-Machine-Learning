@@ -13,16 +13,18 @@
 
 #### Metrics Optimization
 
--	AAA
+-	[Understanding ROC curves](http://www.navan.name/roc/)
 
 #### Hyperparameter Optimization
 
--	AAA
+-	[Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+-	[Optimizing hyperparameters with hyperopt](http://fastml.com/optimizing-hyperparams-with-hyperopt/)
+
+#### Jupyter Notebook
+-	[28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 #### Advanced Feature Engineering
 
--	AAA
-
-#### Ensembling
-
--	AAA
+-	[Multicore t-SNE implementation](https://github.com/DmitryUlyanov/Multicore-TSNE)
+-	[How to Use t-SNE Effectively (distill.pub blog)](https://distill.pub/2016/misread-tsne/)
+-	[Facebook Research's paper about extracting categorical features from trees](https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/)
