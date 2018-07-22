@@ -37,6 +37,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [ ]   *week 4*: Markov Chain Monte Carlo methods
 - [ ]   *week 5*: Variational Autoencoders
 - [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
+- [ ]	*week 7*: Final Project - Police Suspect Image Identification
 
 **4 - _Natural Language Processing_**
 - [x]   *week 1*: Text Classification with Linear Models
