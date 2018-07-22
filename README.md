@@ -21,20 +21,20 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 3*: Convolutional Neural Networks
 - [x]   *week 4*: Autoencoders and Generative Adversarial Networks
 - [x]   *week 5*: Recurrent Neural Networks
-- [x]   *week 6*: Image Captioning Final Project
+- [x]   *week 6*: Final Project - Image Captioning
 
 **2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**
 - [x]   *week 1*: Feature Preprocessing and Engineering
 - [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
 - [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
-- [ ]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
-- [ ]   *week 5*: Kaggle Competition Final Project
+- [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
+- [ ]   *week 5*: Final Project - Kaggle Competition (Predict Future Sales)
 
 **3 - _Bayesian Methods for Machine Learning_**
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
-- [ ]   *week 4*: Markov Chain Monte Carlo
+- [ ]   *week 4*: Markov Chain Monte Carlo methods
 - [ ]   *week 5*: Variational Autoencoders
 - [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
 
@@ -43,11 +43,11 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [ ]   *week 2*: Language Modelling with Hidden Markov Models and Neural Networks
 - [ ]   *week 3*: Word Embeddings and Topic Models
 - [ ]   *week 4*: Sequence-to-Sequence Tasks
-- [ ]   *week 5*: StackOverflow Chatbot Final Project
+- [ ]   *week 5*: Final Project - StackOverflow A.I Chatbot
 
 <br>
 
-### To be continued
+### Future courses
 
 **5 - Practical Reinforcement Learning**  (August-September 2018)
 
