@@ -28,14 +28,14 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
 - [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
 - [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
-- [ ]   *week 5*: Final Project - Kaggle Competition (Predict Future Sales)
+- [x]   *week 5*: Final Project - Kaggle Competition (Predict Future Sales)
 
 **3 - _Bayesian Methods for Machine Learning_**
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
-- [x]   *week 4*: Markov Chain Monte Carlo methods
-- [ ]   *week 5*: Variational Autoencoders
+- [x]   *week 4*: Markov Chain Monte Carlo
+- [ ]   *week 5*: Bayesian Neural Networks and Variational Autoencoders
 - [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [ ]	*week 7*: Final Project - Forensics to generate images of suspects
 
