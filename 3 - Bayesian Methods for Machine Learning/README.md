@@ -10,5 +10,6 @@ Bayesian methods are used in lots of fields: from game development to drug disco
 2) Expectation-Maximization algorithm and Gaussian Mixture Models
 3) Variational Inference and Latent Dirichlet Allocation
 4) Markov Chain Monte Carlo
-5) Variational Autoencoders
+5) Bayesian Neural Networks and Variational Autoencoders
 6) Gaussian Processes and Bayesian Optimization
+7) Final Project: Forensics to generate images of suspects
