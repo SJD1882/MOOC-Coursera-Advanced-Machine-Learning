@@ -2,7 +2,7 @@
 
 ### National Research University Higher School of Economics - Yandex
 
-<img src="logo.png" width="900" height="200" />
+<img src="logo.png" width="800" height="200" />
 
 [Coursera Webpage](https://www.coursera.org/specializations/aml)
 
@@ -21,37 +21,37 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 3*: Convolutional Neural Networks
 - [x]   *week 4*: Autoencoders and Generative Adversarial Networks
 - [x]   *week 5*: Recurrent Neural Networks
-- [x]   *week 6*: Final Project - Image Captioning
+- [x]   *Final Project*: Image Captioning
 
-**2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**
+**2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**  (*completed*)
 - [x]   *week 1*: Feature Preprocessing and Engineering
 - [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
 - [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
 - [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
-- [x]   *week 5*: Final Project - Kaggle Competition (Predict Future Sales)
+- [x]   *Final Project*: Kaggle Competition (Predict Future Sales)
 
 **3 - _Bayesian Methods for Machine Learning_**
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
 - [x]   *week 4*: Markov Chain Monte Carlo
-- [ ]   *week 5*: Bayesian Neural Networks and Variational Autoencoders
+- [x]   *week 5*: Bayesian Neural Networks and Variational Autoencoders
 - [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
-- [ ]	*week 7*: Final Project - Forensics to generate images of suspects
+- [ ]	*Final Project*: Forensics to generate images of suspects
 
 **4 - _Natural Language Processing_**
 - [x]   *week 1*: Text Classification with Linear Models
 - [ ]   *week 2*: Language Modelling with Hidden Markov Models and Neural Networks
 - [ ]   *week 3*: Word Embeddings and Topic Models
 - [ ]   *week 4*: Sequence-to-Sequence Tasks
-- [ ]   *week 5*: Final Project - StackOverflow A.I Chatbot
+- [ ]   *Final Project*: StackOverflow A.I Chatbot
 
 <br>
 
 ### Future courses
 
-**5 - Practical Reinforcement Learning**  (August-September 2018)
+**5 - Practical Reinforcement Learning**  (August-October 2018)
 
-**6 - Deep Learning in Computer Vision**  (September-October 2018)
+**6 - Deep Learning in Computer Vision**  (October-November 2018)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (October-November 2018)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (November-December 2018)
