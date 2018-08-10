@@ -36,7 +36,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
 - [x]   *week 4*: Markov Chain Monte Carlo
 - [x]   *week 5*: Bayesian Neural Networks and Variational Autoencoders
-- [ ]	*week 6*: Gaussian Processes and Bayesian Optimization
+- [x]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [ ]	*Final Project*: Forensics to generate images of suspects
 
 **4 - _Natural Language Processing_**
