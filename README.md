@@ -30,14 +30,14 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
 - [x]   *Final Project*: Kaggle Competition (Predict Future Sales)
 
-**3 - _Bayesian Methods for Machine Learning_**
+**3 - _Bayesian Methods for Machine Learning_**  (*completed*)
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
 - [x]   *week 4*: Markov Chain Monte Carlo
 - [x]   *week 5*: Bayesian Neural Networks and Variational Autoencoders
 - [x]	*week 6*: Gaussian Processes and Bayesian Optimization
-- [ ]	*Final Project*: Forensics to generate images of suspects
+- [x]	*Final Project*: Forensics to generate images of suspects
 
 **4 - _Natural Language Processing_**
 - [x]   *week 1*: Text Classification with Linear Models
@@ -50,7 +50,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**5 - Practical Reinforcement Learning**  (August-October 2018)
+**5 - Practical Reinforcement Learning**  (September-October 2018)
 
 **6 - Deep Learning in Computer Vision**  (October-November 2018)
 
