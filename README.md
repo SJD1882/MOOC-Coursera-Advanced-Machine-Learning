@@ -41,7 +41,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 **4 - _Natural Language Processing_**
 - [x]   *week 1*: Text Classification with Linear Models
-- [ ]   *week 2*: Language Modelling with Hidden Markov Models and Neural Networks
+- [ ]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [ ]   *week 3*: Word Embeddings and Topic Models
 - [ ]   *week 4*: Sequence-to-Sequence Tasks
 - [ ]   *Final Project*: StackOverflow A.I Chatbot
@@ -50,8 +50,8 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**5 - Practical Reinforcement Learning**  (September-October 2018)
+**5 - Practical Reinforcement Learning**  (October 2018)
 
-**6 - Deep Learning in Computer Vision**  (October-November 2018)
+**6 - Deep Learning in Computer Vision**  (November 2018)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (November-December 2018)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (December 2018)
