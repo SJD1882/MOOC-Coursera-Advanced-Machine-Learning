@@ -9,7 +9,7 @@ Throughout the lectures, we will aim at finding a balance between traditional an
 **Modules**
 
 1) Sentiment classification with linear models
-2) Language modelling
+2) Language modelling with Probabilistic Graphical Models and Neural Networks
 3) Word and sentence embeddings
 4) Sequence to sequence tasks
 5) Final Project: A.I Chatbot
