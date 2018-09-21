@@ -41,7 +41,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 **4 - _Natural Language Processing_**
 - [x]   *week 1*: Text Classification with Linear Models
-- [ ]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
+- [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [ ]   *week 3*: Word Embeddings and Topic Models
 - [ ]   *week 4*: Sequence-to-Sequence Tasks
 - [ ]   *Final Project*: StackOverflow A.I Chatbot
