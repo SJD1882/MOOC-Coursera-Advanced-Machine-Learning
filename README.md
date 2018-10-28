@@ -50,8 +50,8 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**5 - Practical Reinforcement Learning**  (October 2018)
+**5 - Practical Reinforcement Learning**  (December 2018)
 
-**6 - Deep Learning in Computer Vision**  (November 2018)
+**6 - Deep Learning in Computer Vision**  (January 2019)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (December 2018)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (February 2018)
