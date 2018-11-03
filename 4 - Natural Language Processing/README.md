@@ -11,5 +11,5 @@ Throughout the lectures, we will aim at finding a balance between traditional an
 1) Sentiment Classification with Linear Models
 2) Language Modelling with Probabilistic Graphical Models and Neural Networks
 3) Word Embeddings and Topic Models
-4) Statistical Machine Translation and Autoencoders
+4) Machine Translation and Sequence-to-Sequence Models
 5) Final Project: A.I Chatbot
