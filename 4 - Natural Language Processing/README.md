@@ -12,4 +12,5 @@ Throughout the lectures, we will aim at finding a balance between traditional an
 2) Language Modelling with Probabilistic Graphical Models and Neural Networks
 3) Word Embeddings and Topic Models
 4) Machine Translation and Sequence-to-Sequence Models
-5) Final Project: A.I Chatbot
+5) Final Project 1: StackOverflow Task-Oriented Chatbot
+6) Final Project 2: Movie Dialogue-Based Conversational Chatbot

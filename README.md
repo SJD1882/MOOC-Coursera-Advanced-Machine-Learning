@@ -15,7 +15,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Table of Contents
 
-**1 - _Introduction to Deep Learning_**  (*completed*)
+**1 - _Introduction to Deep Learning_**  (*certified completion*)
 - [x]   *week 1*: Optimization
 - [x]   *week 2*: Multilayer Perceptron and introduction to Tensorflow/Keras
 - [x]   *week 3*: Convolutional Neural Networks
@@ -23,14 +23,14 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 5*: Recurrent Neural Networks
 - [x]   *Final Project*: Image Captioning
 
-**2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**  (*completed*)
+**2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**  (*certified completion*)
 - [x]   *week 1*: Feature Preprocessing and Engineering
 - [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
 - [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
 - [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
 - [x]   *Final Project*: Kaggle Competition (Predict Future Sales)
 
-**3 - _Bayesian Methods for Machine Learning_**  (*completed*)
+**3 - _Bayesian Methods for Machine Learning_**  (*certified completion*)
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
@@ -43,8 +43,9 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 1*: Text Classification with Linear Models
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
-- [x]   *week 4*: Machine Translation and Sequence-to-Sequence Models
-- [ ]   *Final Project*: StackOverflow A.I Chatbot
+- [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
+- [ ]   *Final Project 1*: StackOverflow Task-Oriented Chatbot
+- [ ]   *Final Project 2*: Movie Dialogue-Based Conversational Chatbot
 
 <br>
 
