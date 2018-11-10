@@ -2,6 +2,7 @@ import nltk
 import pickle
 import re
 import numpy as np
+import pandas as pd
 
 nltk.download('stopwords')
 from nltk.corpus import stopwords
@@ -45,23 +46,43 @@ def load_embeddings(embeddings_path):
     # Hint: you have already implemented a similar routine in the 3rd assignment.
     # Note that here you also need to know the dimension of the loaded embeddings.
     # When you load the embeddings, use numpy.float32 type as dtype
-
-    ########################
-    #### YOUR CODE HERE ####
-    ########################
-
-        pass 
-
-def question_to_vec(question, embeddings, dim):
-    """Transforms a string to an embedding by averaging word embeddings."""
+	
+    embeddings = pd.read_csv(embeddings_path, sep='\t', header=None)
+    idx = embeddings.iloc[:,1:].values
+    embeddings = embeddings.iloc[:,0].values
     
-    # Hint: you have already implemented exactly this function in the 3rd assignment.
+    res = {}
+    for i, j in zip(idx, embeddings):
+        res.update({i: j})
+    
+    dim = embeddings.shape[1]
+    
+    return res, dim
 
-    ########################
-    #### YOUR CODE HERE ####
-    ########################
+	
+def question_to_vec(question, embeddings, dim):
+    """
+        question: a string
+        embeddings: dict where the key is a word and a value is its' embedding
+        dim: size of the representation
 
-        pass
+        result: vector representation for the question
+    """
+    tokens = question.split()
+    word_embeddings = []
+    
+    # In case of words with no embeddings, then they are skipped
+    for word in tokens:
+        if word in embeddings:
+            word_embeddings.append(embeddings[word])
+    
+    # If the question doesn't contain any known word with embedding
+    if not word_embeddings:
+        return np.zeros(dim)
+    
+    question_embeddings = np.mean(word_embeddings, axis=0)
+    
+    return question_embeddings
 
 
 def unpickle_file(filename):
