@@ -44,12 +44,12 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
 - [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
-- [ ]   *Final Project*: StackOverflow Task-Oriented Chatbot (on hold)
+- [ ]   *Final Project*: *StackOverflow Task-Oriented Chatbot* (on hold)
 
 **5 - _Practical Reinforcement Learning_**
 - [x]   *week 1*: Introduction to Reinforcement Learning
-- [ ]   *week 2*: Dynamic Programming
-- [ ]   *week 3*: Model-Free Methods
+- [x]   *week 2*: Dynamic Programming
+- [ ]   *week 3*: Model-Free Methods (Monte Carlo, Q-Learning)
 - [ ]   *week 4*: Approximate Value-Based Methods
 - [ ]   *week 5*: Policy-Based Methods
 - [ ]   *week 6*: Exploration Strategies and Reinforcement Learning applied to Deep Learning
