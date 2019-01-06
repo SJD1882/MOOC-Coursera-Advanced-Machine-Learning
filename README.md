@@ -15,7 +15,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Table of Contents
 
-**1 - _Introduction to Deep Learning_**  (*certified completion*)
+**1 - Introduction to Deep Learning**  (*certified completion*)
 - [x]   *week 1*: Optimization
 - [x]   *week 2*: Multilayer Perceptron and introduction to Tensorflow/Keras
 - [x]   *week 3*: Convolutional Neural Networks
@@ -23,14 +23,14 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 5*: Recurrent Neural Networks
 - [x]   *Final Project*: Image Captioning
 
-**2 - _How to Win a Data Science Competition: Learn From Top Kagglers_**  (*certified completion*)
+**2 - How to Win a Data Science Competition: Learn From Top Kagglers**  (*certified completion*)
 - [x]   *week 1*: Feature Preprocessing and Engineering
 - [x]   *week 2*: Exploratory Data Analysis, Validation Strategies and Data Leakages
 - [x]   *week 3*: Metric Optimization and Advanced Feature Engineering I
 - [x]   *week 4*: Hyperparameter Optimization, Advanced Feature Engineering II and Ensembling
 - [x]   *Final Project*: Kaggle Competition (Predict Future Sales)
 
-**3 - _Bayesian Methods for Machine Learning_**  (*certified completion*)
+**3 - Bayesian Methods for Machine Learning**  (*certified completion*)
 - [x]   *week 1*: Refresher on Bayesian probability theory
 - [x]   *week 2*: Expectation-Maximization algorithm and Gaussian Mixture Models
 - [x]   *week 3*: Variational Inference and Latent Dirichlet Allocation
@@ -39,17 +39,17 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [x]	*Final Project*: Forensics to generate images of suspects
 
-**4 - _Natural Language Processing_**
+**4 - Natural Language Processing**  (*expected completion before May 2019*)
 - [x]   *week 1*: Text Classification with Linear Models
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
 - [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
-- [ ]   *Final Project*: *StackOverflow Task-Oriented Chatbot* (on hold)
+- [ ]   *Final Project*: *StackOverflow Task-Oriented Chatbot*
 
-**5 - _Practical Reinforcement Learning_**
+**5 - Practical Reinforcement Learning**  (*expected completion before February 2019*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
 - [x]   *week 2*: Dynamic Programming
-- [ ]   *week 3*: Model-Free Methods (Monte Carlo, Q-Learning)
+- [x]   *week 3*: Model-Free Methods (Monte Carlo, Q-Learning)
 - [ ]   *week 4*: Approximate Value-Based Methods
 - [ ]   *week 5*: Policy-Based Methods
 - [ ]   *week 6*: Exploration Strategies and Reinforcement Learning applied to Deep Learning
@@ -58,6 +58,6 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**6 - Deep Learning in Computer Vision**  (January 2019)
+**6 - Deep Learning in Computer Vision**  (March 2019)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (February/March 2018)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (May 2019)
