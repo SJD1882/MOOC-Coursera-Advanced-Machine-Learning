@@ -8,7 +8,7 @@ Here you will find out about: - foundations of RL methods: value/policy iteratio
 
 1) Introduction to Reinforcement Learning
 2) Dynamic Programming
-3) Model-Free Methods
-4) Approximate Value-Based Methods
+3) Model-Free Reinforcement Learning
+4) Approximate / Deep Reinforcement Learning
 5) Policy-Based Methods
 6) Exploration Strategies and Reinforcement Learning applied to Deep Learning
