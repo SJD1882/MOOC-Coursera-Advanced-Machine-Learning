@@ -44,7 +44,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
 - [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
-- [ ]   *Final Project*: *StackOverflow Task-Oriented Chatbot*
+- [ ]   *Final Project*: StackOverflow Task-Oriented Chatbot
 
 **5 - Practical Reinforcement Learning**  (*expected completion before February 2019*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
@@ -58,6 +58,6 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**6 - Deep Learning in Computer Vision**  (March 2019)
+**6 - Deep Learning in Computer Vision**  (April 2019)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (May 2019)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (June 2019)
