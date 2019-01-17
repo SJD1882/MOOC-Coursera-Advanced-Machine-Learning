@@ -49,10 +49,10 @@ You will master your skills by solving a wide variety of real-world problems lik
 **5 - Practical Reinforcement Learning**  (*expected completion before February 2019*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
 - [x]   *week 2*: Dynamic Programming
-- [x]   *week 3*: Model-Free Methods (Monte Carlo, Q-Learning)
-- [ ]   *week 4*: Approximate Value-Based Methods
+- [x]   *week 3*: Model-Free Reinforcement Learning
+- [x]   *week 4*: Approximate / Deep Reinforcement Learning
 - [ ]   *week 5*: Policy-Based Methods
-- [ ]   *week 6*: Exploration Strategies and Reinforcement Learning applied to Deep Learning
+- [ ]   *week 6*: Reinforcement Learning applied to Deep Learning
 
 <br>
 
