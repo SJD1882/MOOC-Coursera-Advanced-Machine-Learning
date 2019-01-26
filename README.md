@@ -48,16 +48,16 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 **5 - Practical Reinforcement Learning**  (*expected completion before February 2019*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
-- [x]   *week 2*: Dynamic Programming
-- [x]   *week 3*: Model-Free Reinforcement Learning
-- [x]   *week 4*: Approximate / Deep Reinforcement Learning
+- [x]   *week 2*: Model-Based Reinforcement Learning (Dynamic Programming)
+- [x]   *week 3*: Model-Free Reinforcement Learning (SARSA, Monte Carlo, Q-Learning)
+- [x]   *week 4*: Approximate and Deep Reinforcement Learning
 - [ ]   *week 5*: Policy-Based Methods
-- [ ]   *week 6*: Reinforcement Learning applied to Deep Learning
+- [ ]   *week 6*: Advanced Topics
 
 <br>
 
 ### Future courses
 
-**6 - Deep Learning in Computer Vision**  (April 2019)
+**6 - Deep Learning in Computer Vision**  (May 2019)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (June 2019)
+**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (July 2019)
