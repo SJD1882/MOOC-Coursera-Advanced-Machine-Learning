@@ -39,14 +39,14 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [x]	*Final Project*: Forensics to generate images of suspects
 
-**4 - Natural Language Processing**  (*expected completion before May 2019*)
+**4 - Natural Language Processing**  (*expected completion before June 2019*)
 - [x]   *week 1*: Text Classification with Linear Models
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
 - [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
 - [ ]   *Final Project*: StackOverflow Task-Oriented Chatbot
 
-**5 - Practical Reinforcement Learning**  (*expected completion before February 2019*)
+**5 - Practical Reinforcement Learning**  (*expected completion before April 2019*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
 - [x]   *week 2*: Model-Based Reinforcement Learning (Dynamic Programming)
 - [x]   *week 3*: Model-Free Reinforcement Learning (SARSA, Monte Carlo, Q-Learning)
@@ -58,6 +58,6 @@ You will master your skills by solving a wide variety of real-world problems lik
 
 ### Future courses
 
-**6 - Deep Learning in Computer Vision**  (May 2019)
+**6 - Addressing Large Hadron Collider Challenges by Machine Learning**  (May 2019)
 
-**7 - Addressing Large Hadron Collider Challenges by Machine Learning**  (July 2019)
+**7 - Deep Learning in Computer Vision**  (July 2019)
