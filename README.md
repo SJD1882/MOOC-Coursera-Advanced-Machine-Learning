@@ -39,20 +39,20 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [x]	*Final Project*: Forensics to generate images of suspects
 
-**4 - Natural Language Processing**  (*expected completion: May 2019*)
+**4 - Natural Language Processing**  (*expected completion: June 2019*)
 - [x]   *week 1*: Text Classification with Linear Models
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
 - [x]   *week 4*: Machine Translation and Sequence-To-Sequence Models
 - [ ]   *Final Project*: StackOverflow Task-Oriented Chatbot
 
-**5 - Practical Reinforcement Learning**  (*expected completion: April 2019*)
+**5 - Practical Reinforcement Learning**  (*certified completion*)
 - [x]   *week 1*: Introduction to Reinforcement Learning
 - [x]   *week 2*: Model-Based Reinforcement Learning (Dynamic Programming)
 - [x]   *week 3*: Model-Free Reinforcement Learning (SARSA, Monte Carlo, Q-Learning)
-- [x]   *week 4*: Approximate and Deep Reinforcement Learning
-- [x]   *week 5*: Policy Gradient Methods
-- [ ]   *week 6*: Advanced Topics
+- [x]   *week 4*: Approximate and Deep Reinforcement Learning (Deep Q-Learning)
+- [x]   *week 5*: Policy Gradient Reinforcement Learning
+- [x]   *week 6*: Advanced Topics on Exploration and Planning
 
 <br>
 

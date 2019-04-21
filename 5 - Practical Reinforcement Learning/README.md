@@ -10,5 +10,5 @@ Here you will find out about: - foundations of RL methods: value/policy iteratio
 2) Model-Based Reinforcement Learning
 3) Model-Free Reinforcement Learning
 4) Approximate and Deep Reinforcement Learning
-5) Policy-Based Methods
-6) Advanced Topics
+5) Policy Gradient Reinforcement Learning
+6) Advanced Topics (e.g. Exploration/Exploitation, Planning)
