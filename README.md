@@ -39,7 +39,7 @@ You will master your skills by solving a wide variety of real-world problems lik
 - [x]	*week 6*: Gaussian Processes and Bayesian Optimization
 - [x]	*Final Project*: Forensics to generate images of suspects
 
-**4 - Natural Language Processing**  (*expected completion: Summer 2019*)
+**4 - Natural Language Processing**  (ON HOLD)
 - [x]   *week 1*: Text Classification with Linear Models
 - [x]   *week 2*: Language Modelling with Probabilistic Graphical Models and Neural Networks
 - [x]   *week 3*: Word Embeddings and Topic Models
